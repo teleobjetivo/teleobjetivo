@@ -1,96 +1,88 @@
-# OrionLab – Hugo Baghetti Calderón  
-### Astrofotografía científica · Neuroseñales · Ingeniería y Análisis de Datos
-
-> _“Exploro señales: desde la mente hasta el cielo profundo.”_
-
----
-
-## 👋 Presentación
-
-Soy **Ingeniero en Informática** y **Magíster en Gestión TI**, con más de 15 años liderando proyectos de:
-
-- Arquitectura e ingeniería de datos  
-- Analítica avanzada y métricas de operación  
-- Investigación independiente en **astrofotografía científica** y **neuroseñales (EEG/BCI)**  
-
-Mi trabajo combina el método científico, la ingeniería y la visualización, para convertir datos complejos en decisiones claras y accionables.
+# Hugo Baghetti Calderón  
+**Ingeniero en Informática | Astrofotógrafo | Investigador OrionLab (2019–2026)**  
+📍 Chile | 🌌 Astro & Data Science | 🧠 Neurodata | 🛠 Ingeniería y Sistemas
 
 ---
 
-## 🛰 Líneas de investigación
+## 🌌 OrionLab — Investigación Científica y Tecnología (2019–2026)
+OrionLab es mi laboratorio personal de investigación donde desarrollo estudios sobre:
 
-**Neuroseñales & BCI**
+- Astrofotografía científica y óptima (ruido térmico, filtros, SNR, apilamiento, dithering)
+- Visibilidad astronómica desde el hemisferio sur
+- Modelos de cielo profundo y análisis cuantitativo
+- NEURODATA: Interpretación de señales EEG, BCI y correlatos de dolor/estrés
+- Pipelines Python para simulación, reducción y análisis astronómico
 
-- Clasificación de estados de estrés/relajación mediante EEG de bajo costo  
-- Patrones asociados a dolor y estímulos nociceptivos  
-- Prototipos BCI para control de motores y dispositivos
-
-**Astrofotografía & Cielo Profundo**
-
-- Modelos de SNR, exposición y número óptimo de subs  
-- Fotometría en cúmulos abiertos y estrellas variables  
-- Evaluación de filtros (banda ancha / narrowband / Optolong)  
-- Impacto de la contaminación lumínica en cielos urbanos (ej. Las Condes, Chile)
-
-**Ingeniería & Analytics**
-
-- Pipelines de datos (ETL) para minería, retail y operaciones  
-- Dashboards ejecutivos sin servidor (HTML estático)  
-- Automatización de análisis exploratorios (DataCopilot Auto-Analyst)
+🔭 **Repositorio de investigación:**  
+➡️ https://github.com/teleobjetivo/orionlab-investigacion
 
 ---
 
-## 📂 Repositorios principales
+## 📂 Portafolio Técnico – Ingeniería y Análisis
+Mi trayectoria combina ingeniería TI, data analytics y transformación digital. Desarrollo soluciones que integran:
 
-### 🔭 OrionLab Research – Astro & Neurodata (P01–P20)  
-Colección de estudios reproducibles, con:
+- Arquitectura de datos  
+- Integración y automatización  
+- Modelos analíticos  
+- Dashboards y reporting técnico  
+- Python & SQL aplicado a problemas reales de negocio
 
-- `data/` – datos sintéticos o muestreados  
-- `paper/` – artículos en formato Markdown  
-- `code/` – scripts de simulación y análisis
-
-👉 https://github.com/teleobjetivo/orionlab-investigacion
-
----
-
-### 📊 Analytics & Tech Portfolio – Casos aplicados  
-Portafolio técnico con proyectos de:
-
-- Salud de activos y mantenimiento en minería  
-- Backlog, fallas de correas y priorización operativa  
-- Segmentación de riesgo en créditos retail  
-- Priorización de tickets TI  
-- Pipelines ALMA / cielo profundo y dashboards ejecutivos
-
-👉 https://github.com/teleobjetivo/analytics-tech-portfolio
+📘 **Portafolio técnico:**  
+➡️ https://github.com/teleobjetivo/analytics-tech-portfolio
 
 ---
 
-## 🛠 Stack y herramientas
+## 🎯 Enfoque Profesional
+Mi trabajo une **método científico, ingeniería aplicada y narrativa visual**.  
+Creo en resolver problemas complejos con claridad, datos y simplicidad operacional.
 
-**Lenguajes y datos**
+**Áreas clave de especialización:**
 
-- Python · Pandas · NumPy · Matplotlib · JupyterLab  
-- ETL, limpieza de datos, análisis exploratorio y modelado sencillo
-
-**Astrofotografía**
-
-- William Optics RedCat 51 · ZWO ASI533MC Pro  
-- Optolong L-eXtreme / L-Quad Enhance  
-- Sky-Watcher Star Adventurer GTi · ASIAIR  
-- Nikon D7500 · Sigma 150–600mm
-
-**Cloud & Dev**
-
-- GitHub · GitHub Actions  
-- AWS (EC2, S3, Lambda – nivel práctico)  
+- Python para ciencia y automatización  
+- Sistemas, integración y performance  
+- Astronomía observacional + fotografía  
+- Análisis de señales EEG y modelos BCI  
+- Diseño de pipelines y simuladores  
+- Gestión de proyectos y TI  
 
 ---
 
-## 📫 Contacto
+## 🧠 NEURODATA – Proyecto 2025–2026
+Investigación aplicada para analizar señales cerebrales (EEG) y construir prototipos funcionales de:
 
-- 🌐 Web: https://www.teleobjetivo.cl  
-- 📸 Instagram: [@tele.objetivo](https://www.instagram.com/tele.objetivo)  
-- 📧 Email: **teleobjetivo.boutique@gmail.com**  
+- Identificación de estímulos asociados a dolor/estrés  
+- Modelos predictivos con Python  
+- Control de motores vía Arduino a través de señales EEG  
+- Visualización científica de series temporales  
 
 ---
+
+## 📸 Fotografía & Astrofotografía
+Trabajo imágenes nocturnas, cielo profundo y paisaje astronómico usando:
+
+- Nikon D7500  
+- William Optics RedCat 51 MK2.5  
+- Sky-Watcher Star Adventurer GTi  
+- Técnicas avanzadas: dithering, apilamiento, reducción de ruido, calibración, filtros L-Quad, etc.  
+
+Instagram: **@tele.objetivo**
+
+---
+
+## 🛠 Stack Tecnológico  
+**Lenguajes:** Python, SQL, Bash  
+**IA / Ciencia:** NumPy, SciPy, AstroPy, Jupyter, Matplotlib, Scikit-learn  
+**DevOps / Repo:** GitHub, GitLab CI/CD  
+**Instrumentos:** Nikon | ZWO | Sky-Watcher | Arduino  
+**Plataformas:** macOS, AWS, Databricks  
+
+---
+
+## 📬 Contacto  
+📧 **teleobjetivo.boutique@gmail.com**  
+🌐 **www.teleobjetivo.cl**  
+📷 **Instagram: @tele.objetivo**
+
+---
+> _"Explorar, medir, comprender. La ciencia es luz, y la fotografía es su eco."_  
+— Hugo Baghetti Calderón
