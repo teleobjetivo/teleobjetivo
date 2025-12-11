@@ -1,70 +1,74 @@
-# Hugo Baghetti Calderón  
-### OrionLab · Ingeniería, Datos y Ciencia Aplicada
+# 🌌 OrionLab – Hugo Baghetti Calderón  
+
+### Astrofotografía científica · Neuroseñales · Ingeniería y Analítica
+
+> _Exploro señales: desde la mente hasta el cielo profundo._
 
 ---
 
-## Perfil
+## 👤 Sobre mí
 
-Ingeniero en Informática y Magíster en Gestión TI.  
-Más de 15 años en:
+Soy **Ingeniero en Informática** y **Magíster en Gestión TI**, con más de 15 años en:
 
-- proyectos de **tecnología y analítica**,  
-- diseño de **arquitecturas de datos**,  
-- y **operación real de negocio** (minería, servicios, retail).
+- proyectos de tecnología,  
+- integración y análisis de datos,  
+- y mejora de procesos basados en métricas.
 
-En paralelo desarrollo **OrionLab**, un espacio de investigación aplicada en:
+OrionLab es mi laboratorio personal, donde conecto:
 
-- **astrofotografía científica**  
-- **neuroseñales (EEG, BCI)**  
-- **modelos y simulaciones basadas en datos**
-
----
-
-## Líneas de trabajo
-
-- **Ingeniería de datos y analytics**  
-  - ETL/Pipelines en Python  
-  - Modelos métricos (SLA, SLO, KPIs operacionales)  
-  - Dashboards ejecutivos sin servidor (HTML estático)
-
-- **Astrofotografía y ciencia de cielo profundo**  
-  - Modelos de SNR y exposición  
-  - Evaluación de filtros y visibilidad desde Chile  
-  - Procesos de reducción y calibración
-
-- **Neurodata & BCI**  
-  - Señales EEG de bajo costo  
-  - Prototipos de clasificación y control
+- **Neurociencia de datos** (EEG, BCI, patrones temporales)  
+- **Astrofotografía científica** (SNR, filtros, visibilidad, ruido térmico)  
+- **Ingeniería de datos** (pipelines, dashboards, automatización)
 
 ---
 
-## Repositorios clave
+## 📂 Mis dos mundos en GitHub
 
-- **OrionLab Research** – Estudios científicos, datos sintéticos y artículos.  
-  👉 https://github.com/teleobjetivo/orionlab-investigacion  
+### 🔭 1. OrionLab Research – Astro & Neurodata
 
-- **Analytics & Tech Portfolio** – Casos aplicados en minería, retail y servicios.  
-  👉 https://github.com/teleobjetivo/analytics-tech-portfolio  
+Estudios reproducibles con:
 
----
+- `data/` – datasets sintéticos diseñados para experimentos  
+- `paper/` – artículos en Markdown estilo revista  
+- `code/` – scripts de simulación y análisis
 
-## Stack principal
-
-- Python · Pandas · NumPy · Matplotlib  
-- JupyterLab · Git · GitHub  
-- AWS (nivel práctico)  
-
-Kit astrofotográfico:
-
-- William Optics RedCat 51  
-- ZWO ASI533MC Pro + filtros Optolong  
-- Sky-Watcher Star Adventurer GTi + ASIAIR  
-- Nikon D7500 + teleobjetivos
+🔗 https://github.com/teleobjetivo/orionlab-investigacion
 
 ---
 
-## Contacto
+### 📊 2. Analytics & Tech Portfolio – Casos aplicados
 
-- Web: https://www.teleobjetivo.cl  
-- Instagram: @tele.objetivo  
-- Email: **teleobjetivo.boutique@gmail.com**
+Proyectos técnicos orientados a negocio:
+
+- Minería: salud de activos, backlog, correas transportadoras  
+- Retail & Finanzas: riesgo de créditos y segmentación  
+- TI: priorización inteligente de tickets  
+- Ciencia: pipeline ALMA, DataCopilot, dashboard HTML ejecutable
+
+🔗 https://github.com/teleobjetivo/analytics-tech-portfolio
+
+---
+
+## 🛠 Stack & equipo
+
+**Datos y código**
+
+`Python · Pandas · NumPy · Matplotlib · JupyterLab · GitHub`
+
+**Astrofotografía**
+
+`William Optics RedCat 51 · ZWO ASI533MC Pro · Optolong · Sky-Watcher Star Adventurer GTi · ASIAIR · Nikon D7500`
+
+---
+
+## 📫 Contacto
+
+- 🌐 Web: https://www.teleobjetivo.cl  
+- 📸 Instagram: [@tele.objetivo](https://www.instagram.com/tele.objetivo)  
+- 📧 Email: **teleobjetivo.boutique@gmail.com**
+
+---
+
+<div align="center">
+  <sub>OrionLab – Investigación hecha desde Chile, compartida con el mundo.</sub>
+</div>
