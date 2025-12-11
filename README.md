@@ -1,63 +1,89 @@
-# 🌌 OrionLab – Hugo Baghetti Calderón  
+# OrionLab – Hugo Baghetti Calderón  
+### Astrofotografía científica · Neuroseñales · Ingeniería y Análisis de Datos
 
-### Astrofotografía científica · Neuroseñales · Ingeniería y Analítica
-
-> _Exploro señales: desde la mente hasta el cielo profundo._
-
----
-
-## 👤 Sobre mí
-
-Soy **Ingeniero en Informática** y **Magíster en Gestión TI**, con más de 15 años en:
-
-- proyectos de tecnología,  
-- integración y análisis de datos,  
-- y mejora de procesos basados en métricas.
-
-OrionLab es mi laboratorio personal, donde conecto:
-
-- **Neurociencia de datos** (EEG, BCI, patrones temporales)  
-- **Astrofotografía científica** (SNR, filtros, visibilidad, ruido térmico)  
-- **Ingeniería de datos** (pipelines, dashboards, automatización)
+> _“Exploro señales: desde la mente hasta el cielo profundo.”_
 
 ---
 
-## 📂 Mis dos mundos en GitHub
+## 👋 Presentación
 
-### 🔭 1. OrionLab Research – Astro & Neurodata
+Soy **Ingeniero en Informática** y **Magíster en Gestión TI**, con más de 15 años liderando proyectos de:
 
-Estudios reproducibles con:
+- Arquitectura e ingeniería de datos  
+- Analítica avanzada y métricas de operación  
+- Investigación independiente en **astrofotografía científica** y **neuroseñales (EEG/BCI)**  
 
-- `data/` – datasets sintéticos diseñados para experimentos  
-- `paper/` – artículos en Markdown estilo revista  
+Mi trabajo combina el método científico, la ingeniería y la visualización, para convertir datos complejos en decisiones claras y accionables.
+
+---
+
+## 🛰 Líneas de investigación
+
+**Neuroseñales & BCI**
+
+- Clasificación de estados de estrés/relajación mediante EEG de bajo costo  
+- Patrones asociados a dolor y estímulos nociceptivos  
+- Prototipos BCI para control de motores y dispositivos
+
+**Astrofotografía & Cielo Profundo**
+
+- Modelos de SNR, exposición y número óptimo de subs  
+- Fotometría en cúmulos abiertos y estrellas variables  
+- Evaluación de filtros (banda ancha / narrowband / Optolong)  
+- Impacto de la contaminación lumínica en cielos urbanos (ej. Las Condes, Chile)
+
+**Ingeniería & Analytics**
+
+- Pipelines de datos (ETL) para minería, retail y operaciones  
+- Dashboards ejecutivos sin servidor (HTML estático)  
+- Automatización de análisis exploratorios (DataCopilot Auto-Analyst)
+
+---
+
+## 📂 Repositorios principales
+
+### 🔭 OrionLab Research – Astro & Neurodata (P01–P20)  
+Colección de estudios reproducibles, con:
+
+- `data/` – datos sintéticos o muestreados  
+- `paper/` – artículos en formato Markdown  
 - `code/` – scripts de simulación y análisis
 
-🔗 https://github.com/teleobjetivo/orionlab-investigacion
+👉 https://github.com/teleobjetivo/orionlab-investigacion
 
 ---
 
-### 📊 2. Analytics & Tech Portfolio – Casos aplicados
+### 📊 Analytics & Tech Portfolio – Casos aplicados  
+Portafolio técnico con proyectos de:
 
-Proyectos técnicos orientados a negocio:
+- Salud de activos y mantenimiento en minería  
+- Backlog, fallas de correas y priorización operativa  
+- Segmentación de riesgo en créditos retail  
+- Priorización de tickets TI  
+- Pipelines ALMA / cielo profundo y dashboards ejecutivos
 
-- Minería: salud de activos, backlog, correas transportadoras  
-- Retail & Finanzas: riesgo de créditos y segmentación  
-- TI: priorización inteligente de tickets  
-- Ciencia: pipeline ALMA, DataCopilot, dashboard HTML ejecutable
-
-🔗 https://github.com/teleobjetivo/analytics-tech-portfolio
+👉 https://github.com/teleobjetivo/analytics-tech-portfolio
 
 ---
 
-## 🛠 Stack & equipo
+## 🛠 Stack y herramientas
 
-**Datos y código**
+**Lenguajes y datos**
 
-`Python · Pandas · NumPy · Matplotlib · JupyterLab · GitHub`
+- Python · Pandas · NumPy · Matplotlib · JupyterLab  
+- ETL, limpieza de datos, análisis exploratorio y modelado sencillo
 
 **Astrofotografía**
 
-`William Optics RedCat 51 · ZWO ASI533MC Pro · Optolong · Sky-Watcher Star Adventurer GTi · ASIAIR · Nikon D7500`
+- William Optics RedCat 51 · ZWO ASI533MC Pro  
+- Optolong L-eXtreme / L-Quad Enhance  
+- Sky-Watcher Star Adventurer GTi · ASIAIR  
+- Nikon D7500 · Sigma 150–600mm
+
+**Cloud & Dev**
+
+- GitHub · GitHub Actions  
+- AWS (EC2, S3, Lambda – nivel práctico)  
 
 ---
 
@@ -65,10 +91,6 @@ Proyectos técnicos orientados a negocio:
 
 - 🌐 Web: https://www.teleobjetivo.cl  
 - 📸 Instagram: [@tele.objetivo](https://www.instagram.com/tele.objetivo)  
-- 📧 Email: **teleobjetivo.boutique@gmail.com**
+- 📧 Email: **teleobjetivo.boutique@gmail.com**  
 
 ---
-
-<div align="center">
-  <sub>OrionLab – Investigación hecha desde Chile, compartida con el mundo.</sub>
-</div>
