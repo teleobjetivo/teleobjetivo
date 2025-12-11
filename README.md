@@ -1,72 +1,70 @@
-# 🌌 OrionLab – Hugo Baghetti Calderón  
-
-### Astrofotografía científica · Neurodata · Ingeniería de Datos (desde Chile)
-
-<div align="center">
-  <strong>Exploro señales, desde el cerebro hasta el cielo profundo.</strong>  
-  <br/>
-  <sup>Telescopios, cámaras científicas, EEG, Python y muchos datos.</sup>
-</div>
+# Hugo Baghetti Calderón  
+### OrionLab · Ingeniería, Datos y Ciencia Aplicada
 
 ---
 
-## 🔭 Qué hago
+## Perfil
 
-- 🧠 **Neuroseñales & BCI** – Estudios con EEG de bajo costo, patrones de estrés/dolor y prototipos de interfaz cerebro–computador.  
-- 🌠 **Astrofotografía científica** – Modelos de SNR, subs óptimos, visibilidad desde Chile, filtros y reducción avanzada.  
-- 📊 **Analytics & Tech** – Pipelines, ETL, dashboards ejecutivos y automatización de análisis.  
+Ingeniero en Informática y Magíster en Gestión TI.  
+Más de 15 años en:
 
-Construyo **experimentos reproducibles**: datos sintéticos, papers en Markdown y código en Python que cualquiera puede ejecutar.
+- proyectos de **tecnología y analítica**,  
+- diseño de **arquitecturas de datos**,  
+- y **operación real de negocio** (minería, servicios, retail).
 
----
+En paralelo desarrollo **OrionLab**, un espacio de investigación aplicada en:
 
-## 🚀 Mis dos “laboratorios” en GitHub
-
-### 1️⃣ OrionLab Research – Astro & Neurodata
-
-Repositorio dedicado a investigación:
-
-- P01–P20: proyectos de **astrofotografía** y **neurociencia de datos**  
-- Carpeta por estudio (`pXX_*`) con `data/`, `paper/` y `code/`  
-- Enfoque en **SNR, filtros, visibilidad, ruido térmico, EEG y BCI**
-
-🔗 https://github.com/teleobjetivo/orionlab-investigacion
+- **astrofotografía científica**  
+- **neuroseñales (EEG, BCI)**  
+- **modelos y simulaciones basadas en datos**
 
 ---
 
-### 2️⃣ Analytics & Tech Portfolio – Casos reales
+## Líneas de trabajo
 
-Portafolio orientado a operación y negocio:
+- **Ingeniería de datos y analytics**  
+  - ETL/Pipelines en Python  
+  - Modelos métricos (SLA, SLO, KPIs operacionales)  
+  - Dashboards ejecutivos sin servidor (HTML estático)
 
-- Minería: salud de activos, mantenimiento y correas transportadoras  
-- Retail/finanzas: riesgo de créditos y segmentación  
-- Soporte TI: priorización inteligente de tickets  
-- Ciencia: pipeline ALMA, dashboard HTML, DataCopilot Auto-Analyst
+- **Astrofotografía y ciencia de cielo profundo**  
+  - Modelos de SNR y exposición  
+  - Evaluación de filtros y visibilidad desde Chile  
+  - Procesos de reducción y calibración
 
-🔗 https://github.com/teleobjetivo/analytics-tech-portfolio
-
----
-
-## 🛠 Stack técnico
-
-**Datos & código**
-
-`Python · Pandas · NumPy · Matplotlib · Scikit-learn básico · JupyterLab`
-
-**Astro-kit**
-
-`William Optics RedCat 51 · ZWO ASI533MC Pro · Optolong L-Quad · Sky-Watcher Star Adventurer GTi · ASIAIR · Nikon D7500`
-
-**Cloud & herramientas**
-
-`Git · GitHub · GitHub Actions · AWS (EC2 / S3 / Lambda nivel práctico)`
+- **Neurodata & BCI**  
+  - Señales EEG de bajo costo  
+  - Prototipos de clasificación y control
 
 ---
 
-## 📡 Conéctemos
+## Repositorios clave
 
-- 🌐 Web: https://www.teleobjetivo.cl  
-- 📸 Instagram: [@tele.objetivo](https://www.instagram.com/tele.objetivo)  
-- 📧 Email: **teleobjetivo.boutique@gmail.com**
+- **OrionLab Research** – Estudios científicos, datos sintéticos y artículos.  
+  👉 https://github.com/teleobjetivo/orionlab-investigacion  
 
-> _“OrionLab es mi laboratorio abierto: ciencia, código y cielo profundo compartidos con el mundo.”_
+- **Analytics & Tech Portfolio** – Casos aplicados en minería, retail y servicios.  
+  👉 https://github.com/teleobjetivo/analytics-tech-portfolio  
+
+---
+
+## Stack principal
+
+- Python · Pandas · NumPy · Matplotlib  
+- JupyterLab · Git · GitHub  
+- AWS (nivel práctico)  
+
+Kit astrofotográfico:
+
+- William Optics RedCat 51  
+- ZWO ASI533MC Pro + filtros Optolong  
+- Sky-Watcher Star Adventurer GTi + ASIAIR  
+- Nikon D7500 + teleobjetivos
+
+---
+
+## Contacto
+
+- Web: https://www.teleobjetivo.cl  
+- Instagram: @tele.objetivo  
+- Email: **teleobjetivo.boutique@gmail.com**
