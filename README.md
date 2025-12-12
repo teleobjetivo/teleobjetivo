@@ -1,3 +1,5 @@
+<img src="banner.png" alt="OrionLab Banner" style="width:100%;"/>
+
 # Hugo Baghetti Calderón  
 **Ingeniero en Informática | Astrofotógrafo | Investigador OrionLab (2019–2026)**  
 📍 Chile | 🌌 Astro & Data Science | 🧠 Neurodata | 🛠 Ingeniería y Sistemas
