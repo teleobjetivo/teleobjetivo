@@ -14,7 +14,8 @@ OrionLab es mi laboratorio personal de investigación donde desarrollo estudios 
 - Pipelines Python para simulación, reducción y análisis astronómico
 
 🔭 **Repositorio de investigación:**  
-➡️ https://github.com/teleobjetivo/orionlab-investigacion
+➡️ https://github.com/teleobjetivo/orionlab-research
+
 
 ---
 
