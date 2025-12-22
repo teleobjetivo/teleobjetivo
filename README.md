@@ -35,6 +35,15 @@ Mi trayectoria combina ingeniería TI, data analytics y transformación digital.
 
 ---
 
+## 🤖 ML Operational Intelligence — Machine Learning aplicado a operación (V1)
+Repositorio con **14 proyectos ejecutables (V1)** orientados a entrevistas y demos rápidas: detección temprana de eventos, scoring dinámico, clasificación operacional, predicción de timelines, monitoreo de drift, dashboards ejecutivos y orquestación “alert-to-action”.
+
+📌 **Nuevo repositorio (ML / AI):**  
+➡️ https://github.com/teleobjetivo/ml-operational-intelligence
+
+---
+
+
 ## 🎯 Enfoque Profesional
 Mi trabajo une **método científico, ingeniería aplicada y narrativa visual**.  
 Creo en resolver problemas complejos con claridad, datos y simplicidad operacional.
