@@ -6,7 +6,7 @@
 
 ---
 
-## 🌌 OrionLab — Investigación Científica y Tecnología (2019–2026)
+## 🌌 Investigación Científica y Tecnología (2019–2026)
 OrionLab es mi laboratorio personal de investigación donde desarrollo estudios sobre:
 
 - Astrofotografía científica y óptima (ruido térmico, filtros, SNR, apilamiento, dithering)
@@ -22,7 +22,7 @@ OrionLab es mi laboratorio personal de investigación donde desarrollo estudios 
 ---
 
 ## 📂 Portafolio Técnico – Ingeniería y Análisis
-Mi trayectoria combina ingeniería TI, data analytics y transformación digital. Desarrollo soluciones que integran:
+Set de proyectos en Data analytics y transformación digital:
 
 - Arquitectura de datos  
 - Integración y automatización  
@@ -30,12 +30,11 @@ Mi trayectoria combina ingeniería TI, data analytics y transformación digital.
 - Dashboards y reporting técnico  
 - Python & SQL aplicado a problemas reales de negocio
 
-📘 **Portafolio técnico:**  
+📘 **Repositorio técnico:**  
 ➡️ https://github.com/teleobjetivo/analytics-tech-portfolio
 
 ---
 ### ⚙️ Observable Control Rooms Suite (2024–2025)
-
 Suite de **micro-aplicaciones desacopladas** que simulan **centros de control operacionales modernos**,
 basados en **artefactos persistentes (JSON snapshots)** en lugar de acoplamientos directos.
 
@@ -59,13 +58,12 @@ permitiendo discutir arquitectura, ML aplicado y decisiones técnicas con profun
 
 ---
 ## 🤖 ML Operational Intelligence — Machine Learning aplicado a operación (V1)
-Repositorio con **14 proyectos ejecutables (V1)** orientados a entrevistas y demos rápidas: detección temprana de eventos, scoring dinámico, clasificación operacional, predicción de timelines, monitoreo de drift, dashboards ejecutivos y orquestación “alert-to-action”.
+Repositorio con **14 proyectos ejecutables (V1)** orientados a: detección temprana de eventos, scoring dinámico, clasificación operacional, predicción de timelines, monitoreo de drift, dashboards ejecutivos y orquestación “alert-to-action”.
 
-📌 **Nuevo repositorio (ML / AI):**  
+📌 **Repositorio (ML / AI):**  
 ➡️ https://github.com/teleobjetivo/ml-operational-intelligence
 
 ---
-
 
 ## 🎯 Enfoque Profesional
 Mi trabajo une **método científico, ingeniería aplicada y narrativa visual**.  
