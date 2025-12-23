@@ -34,7 +34,30 @@ Mi trayectoria combina ingeniería TI, data analytics y transformación digital.
 ➡️ https://github.com/teleobjetivo/analytics-tech-portfolio
 
 ---
+### ⚙️ Observable Control Rooms Suite (2024–2025)
 
+Suite de **micro-aplicaciones desacopladas** que simulan **centros de control operacionales modernos**,
+basados en **artefactos persistentes (JSON snapshots)** en lugar de acoplamientos directos.
+
+**Principios clave:**
+- Microservicios sin dependencias duras
+- Comunicación por estado observable
+- Normalización, consolidación y explicación
+- Separación estricta entre generación, análisis y visualización
+
+**Incluye:**
+- Anomaly Radar Control (detección explicable)
+- Decision Intelligence Live (simulación y policy impact)
+- Executive Report Factory (reporting automático)
+- Ops Cell Lite (operación liviana y validación rápida)
+
+📦 **Repositorio técnico:**  
+➡️ https://github.com/teleobjetivo/observable-control-rooms-suite
+
+> Estos proyectos modelan escenarios reales de **banca, retail, operación TI y analítica ejecutiva**,
+permitiendo discutir arquitectura, ML aplicado y decisiones técnicas con profundidad.
+
+---
 ## 🤖 ML Operational Intelligence — Machine Learning aplicado a operación (V1)
 Repositorio con **14 proyectos ejecutables (V1)** orientados a entrevistas y demos rápidas: detección temprana de eventos, scoring dinámico, clasificación operacional, predicción de timelines, monitoreo de drift, dashboards ejecutivos y orquestación “alert-to-action”.
 
