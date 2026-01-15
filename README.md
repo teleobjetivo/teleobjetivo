@@ -201,12 +201,49 @@ Sistema automatizado de alta precisión para cielo profundo (nebulosas, cúmulos
 
 ---
 
-## 🛠 Stack Tecnológico  
-**Lenguajes:** Python, SQL, Bash  
-**IA / Ciencia:** NumPy, SciPy, AstroPy, Jupyter, Matplotlib, Scikit-learn  
-**DevOps / Repo:** GitHub, GitLab CI/CD  
-**Instrumentos:** Nikon | ZWO | Sky-Watcher | Arduino  
-**Plataformas:** macOS, AWS, Databricks  
+## 🛠 Stack Tecnológico
+
+### 🧪 Lenguajes y Programación
+- **Python** (científico, automatización, APIs, simuladores)  
+- **SQL / PL-SQL** (PostgreSQL, Oracle, BigQuery)  
+- **Bash / Shell scripting**  
+- **HTML / Markdown** (sitios técnicos, documentación)
+
+### 🧠 Ciencia de Datos y Visualización
+- NumPy, SciPy, AstroPy  
+- Pandas, Scikit-learn, Matplotlib, Seaborn  
+- Jupyter Notebooks (local + remoto)  
+- PowerBI (reportes, dashboards, conectores personalizados)
+
+### ☁️ Cloud & Data Platforms
+- **AWS**, **Google Cloud Platform**, **Microsoft Azure**  
+- **Microsoft Fabric** (suite analítica unificada para ingeniería de datos, BI y gobernanza)  
+- **Databricks**: Delta Lake, cluster management, orquestación colaborativa  
+- Integración con Data Lakes, S3, blob storage y ambientes productivos 24x7
+
+### 🔄 ETL y Automatización de Datos
+- **Pentaho Data Integration (Kettle)** – ETL empresarial y procesamiento por lotes  
+- **FME Desktop / Server** – Integración y transformación de datos geoespaciales (GIS)  
+- **SSIS** – Integración de datos Microsoft  
+- Pipelines con Bash, jobs orquestados y control de calidad
+
+### 🌐 Automatización Visual y Low-Code
+- **n8n** – Automatización basada en nodos y APIs REST  
+- **Make (ex Integromat)** – Integración de servicios y procesos sin código  
+- Modelos visuales de control: **JSON Snapshots + dashboards embebidos** *(Observable Control Rooms Suite)*
+
+### 🔁 DevOps, CI/CD y Repositorios
+- Git, GitHub, GitLab CI/CD  
+- Testing, flujos de despliegue y versionamiento colaborativo  
+- Docker (ambientes reproducibles y modulares)  
+- Infraestructura como código y control de entorno
+
+### 🧱 Ambientes Virtualizados y Sistemas
+- **Linux (Debian, Ubuntu, Raspbian)**  
+- **macOS**, **Windows 10/11**, **Raspberry Pi OS**  
+- **Arduino IDE** – Controladores para BCI, motores, EEG  
+- Entornos Conda / venv / Python portable  
+- Integración de edge computing y dispositivos locales con plataformas analíticas
 
 ---
 
