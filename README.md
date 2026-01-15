@@ -1,13 +1,16 @@
 <img src="baner_1.png" alt="OrionLab Banner" style="width:100%;"/>
 
-> Bienvenido al espacio donde convergen ciencia de datos, astronomía aplicada y automatización de sistemas.  
-> Aquí encontrarás proyectos técnicos, flujos científicos reproducibles, desarrollos en cloud analytics y estudios de cielo profundo desde el hemisferio sur.  
-> Este repositorio central reúne mis investigaciones independientes, soluciones de datos en producción y herramientas para observación astronómica moderna.  
+> Bienvenido al espacio donde convergen ciencia de datos, astronomía aplicada y automatización de sistemas.
+> 
+> Aquí encontrarás proyectos técnicos, flujos científicos reproducibles, desarrollos en cloud analytics y estudios de cielo profundo desde el hemisferio sur.
+> 
+> Este repositorio central reúne mis investigaciones independientes, soluciones de datos en producción y herramientas para observación astronómica moderna.
+> 
 > Todos los proyectos están pensados para ser replicables, auditables y extensibles.
 
 ---
 
-## 📌 Portafolios y Proyectos Destacados
+## Portafolios y Proyectos Destacados
 
 ➡️ **Investigación científica y astrofotografía — OrionLab (2019–2026)**  
 Estudios en astrofotografía científica, análisis de ruido, SNR, apilamiento, visibilidad astronómica y pipelines de análisis.  
@@ -26,7 +29,7 @@ Modelos ejecutables para detección temprana de eventos, scoring dinámico, clas
 https://github.com/teleobjetivo/ml-operational-intelligence
 
 ---
-## 🔭 Inventario Técnico y Óptico
+## Inventario Técnico y Óptico
 
 Kit profesional de astrofotografía, captura aérea, procesamiento científico, control instrumental y automatización.
 
@@ -35,7 +38,7 @@ https://github.com/teleobjetivo/teleobjetivo/blob/main/INVENTORY.md
 
 ---
 
-## 🛠 Stack Tecnológico
+## Stack Tecnológico
 
 Lenguajes, plataformas, herramientas y entornos utilizados en investigación, operación y desarrollo.
 
@@ -44,7 +47,7 @@ https://github.com/teleobjetivo/teleobjetivo/blob/main/STACK.md
 
 ---
 
-## 📸 Portafolio Fotográfico & Astrofotografía
+## Portafolio Fotográfico & Astrofotografía
 
 ➡️ **Galería y portafolio visual**  
 https://hbaghett.myportfolio.com/
@@ -54,7 +57,7 @@ https://www.instagram.com/tele.objetivo/
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 **Hugo Baghetti Calderón**  
 Ingeniero en Informática · Data & Cloud · Astrofotografía científica  
