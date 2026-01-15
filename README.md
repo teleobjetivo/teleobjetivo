@@ -1,8 +1,13 @@
 <img src="baner_1.png" alt="OrionLab Banner" style="width:100%;"/>
 
+<div style="margin-left: 40px">
+
 Bienvenido al espacio donde convergen ciencia de datos, astronomía aplicada y automatización de sistemas. Aquí encontrarás proyectos técnicos, flujos científicos reproducibles, cloud analytics y estudios de cielo profundo desde el hemisferio sur.
 
 Este repositorio central reúne mis investigaciones independientes, soluciones de datos en producción y herramientas para observación astronómica moderna. Todos los proyectos están pensados para ser replicables, auditables y extensibles.
+
+</div>
+
 
 ---
 
