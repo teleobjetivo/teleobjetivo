@@ -195,7 +195,7 @@ Sistema automatizado de alta precisión para cielo profundo (nebulosas, cúmulos
 
 📂 **Captura, reducción y procesamiento científico**:  
 ➡️ [https://github.com/teleobjetivo/orionlab-research](https://github.com/teleobjetivo/orionlab-research)
-
+📷 **Galeria: [@tele.objetivo](https://hbaghett.myportfolio.com)**
 ---
 
 ## 🛠 Stack Tecnológico  
