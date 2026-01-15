@@ -191,11 +191,14 @@ Sistema automatizado de alta precisión para cielo profundo (nebulosas, cúmulos
 
 ---
 
-### 🧠 Workflow & Repositorios
+### 🧠 Workflow & Repositorios & Portafolio Visual
 
 📂 **Captura, reducción y procesamiento científico**:  
 ➡️ [https://github.com/teleobjetivo/orionlab-research](https://github.com/teleobjetivo/orionlab-research)
-📷 **Galeria: [@tele.objetivo](https://hbaghett.myportfolio.com)**
+
+📷 **Galería de Capturas & Portafolio Astrofotográfico**  
+➡️ [hbaghett.myportfolio.com](https://hbaghett.myportfolio.com)
+
 ---
 
 ## 🛠 Stack Tecnológico  
