@@ -1,13 +1,8 @@
 <img src="baner_1.png" alt="OrionLab Banner" style="width:100%;"/>
 
-**OrionLab** es un espacio donde convergen la ciencia de datos, la astronomía aplicada y la automatización técnica.
+Bienvenido al espacio donde convergen ciencia de datos, astronomía aplicada y automatización de sistemas. Aquí encontrarás proyectos técnicos, flujos científicos reproducibles, desarrollos en cloud analytics y estudios de cielo profundo desde el hemisferio sur.
 
-Aquí se desarrollan flujos científicos reproducibles, soluciones de datos en producción, estudios de cielo profundo desde el hemisferio sur y herramientas modernas para la observación astronómica.
-
-Este repositorio reúne investigaciones independientes, control instrumental, proyectos de cloud analytics y técnicas avanzadas de adquisición y procesamiento astronómico.
-
-Todos los desarrollos están pensados para ser replicables, auditables y extensibles.
-
+Este repositorio central reúne mis investigaciones independientes, soluciones de datos en producción y herramientas para observación astronómica moderna. Todos los proyectos están pensados para ser replicables, auditables y extensibles.
 ---
 
 ## Portafolios y Proyectos Destacados
